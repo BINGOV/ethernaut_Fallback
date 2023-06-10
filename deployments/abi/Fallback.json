@@ -1,0 +1,8 @@
+[
+  "constructor()",
+  "function contribute() payable",
+  "function contributions(address) view returns (uint256)",
+  "function getContribution() view returns (uint256)",
+  "function owner() view returns (address)",
+  "function withdraw()"
+]
